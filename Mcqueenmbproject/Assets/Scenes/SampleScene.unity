@@ -228,6 +228,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 99946b0c2aeb8874bba7c31e11201320, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6fac8a27be2475843918b43af977d0c7, type: 2}
+    - target: {fileID: -7635826562936255635, guid: 99946b0c2aeb8874bba7c31e11201320, type: 3}
+      propertyPath: 'm_Materials.Array.data[5]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 520782e2581b67a438145ae10ffae21b, type: 2}
+    - target: {fileID: -7635826562936255635, guid: 99946b0c2aeb8874bba7c31e11201320, type: 3}
+      propertyPath: 'm_Materials.Array.data[6]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d6cc379ebbff8ab4aa3c1ac2e2c84dda, type: 2}
     - target: {fileID: 919132149155446097, guid: 99946b0c2aeb8874bba7c31e11201320, type: 3}
       propertyPath: m_Name
       value: mcqueen
@@ -1750,6 +1762,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.773
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 87c7c0f2281652e48b7565bfd37a149c, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fc8d021c9e89f554c854c04b4842c0bf, type: 2}
+    - target: {fileID: -7635826562936255635, guid: 87c7c0f2281652e48b7565bfd37a149c, type: 3}
+      propertyPath: 'm_Materials.Array.data[4]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 930dcda2aae1f46479a64012bb43931a, type: 2}
     - target: {fileID: 919132149155446097, guid: 87c7c0f2281652e48b7565bfd37a149c, type: 3}
       propertyPath: m_Name
       value: nigelgearsley
@@ -1912,6 +1932,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 4cb548fbdc6e9184b98d186dfedbfcc2, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8160b719a486bc14ea606252b18d1ddf, type: 2}
+    - target: {fileID: -7635826562936255635, guid: 4cb548fbdc6e9184b98d186dfedbfcc2, type: 3}
+      propertyPath: 'm_Materials.Array.data[4]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 191abdeab759b3249acfcef93d6dc86f, type: 2}
+    - target: {fileID: -7635826562936255635, guid: 4cb548fbdc6e9184b98d186dfedbfcc2, type: 3}
+      propertyPath: 'm_Materials.Array.data[5]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ce6818c242031ad45a9d761e8de7d230, type: 2}
     - target: {fileID: 919132149155446097, guid: 4cb548fbdc6e9184b98d186dfedbfcc2, type: 3}
       propertyPath: m_Name
       value: king
